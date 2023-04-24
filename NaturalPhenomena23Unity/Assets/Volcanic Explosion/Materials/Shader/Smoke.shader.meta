@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4741f9a080624c74fa060fb9aa9db800
+timeCreated: 1504254197
+licenseType: Store
+ShaderImporter:
+  defaultTextures:
+  - _T_Thick_Smoke_Tile: {fileID: 2800000, guid: 80c44f02f93bb5348a5dc35cc8674fdf,
+      type: 3}
+  - _T_Soft_Smoke2: {fileID: 2800000, guid: 562cde5b2f014a34db6dc0f2f5ec9e2d, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
